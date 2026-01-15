@@ -1,0 +1,5 @@
+{
+    "api_key": "YOUR_KEY_HERE",
+    "ai_name": "Nexus",
+    "model": "gpt-3.5-turbo"
+}
