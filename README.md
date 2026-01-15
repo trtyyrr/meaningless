@@ -19,22 +19,25 @@ The core idea is to give the AI the ability to check its own "email" and interac
     - It can read, process, and respond to simulated emails stored in the system.
 
 3.  **Virtual Reality (VR) Interface**:
-    - A visual platform for user-AI interaction (WIP).
+    - A visual platform for user-AI interaction.
     - Moves away from the traditional command-line interface to a more immersive experience.
 
 ## Tech Stack
 
-* **Language**: Python
-* **Environment**: Linux / Termux
+* **Languages**: Python, C++, JavaScript, Shell.
+* **Architecture**: Multi-language hybrid system.
+    - **Python**: AI logic and API handling.
+    - **C++**: Core performance modules and system integration.
+    - **JavaScript/Web**: Visualization and VR interface.
 * **License**: GNU Affero General Public License v3.0 (AGPL-3.0)
 
 ## Getting Started
 
-*(Instructions on how to run the code will be added here soon)*
+*(Instructions on how to build and run the code will be added here soon)*
 
 1.  Clone the repository.
 2.  Set up your API Key.
-3.  Run the main script.
+3.  Follow the build instructions for your specific environment.
 
 ## License
 
